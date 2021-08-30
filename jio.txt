@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 git add
 
 git commit 
 
 git push
 
+=======
+>>>>>>> parent of 23bd61b (add)
